@@ -1,0 +1,5 @@
+/data/
+/results/features.npz
+__pycache__/
+.venv/
+.env*
